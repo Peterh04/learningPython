@@ -1,15 +1,24 @@
-#Primitive
-name = 'Peter'
+#Variables
+name = 'Dan'
+#Constant Vairable 
+NAME = "Dan"
 
-#Data types
-#Primitive
-#String
-#Number
-#Boolean
+house_fly = 10
 
-#Non primitive
+print(NAME)
+
+
+
+
+#Data Types
+#Primitive
+#String -> "" or '
+#number -> int, float
+#Boolean -> True, False
+#None
+
+#Non Primitive
 #List
-#Tople
+#Tuple
 #Set
 #Dictionary
-
